@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be2a5a54-b9bf-4b6e-a15c-b9011e3d51ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/VowelsConso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NameEmail.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,9 +41,23 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.VowelsConso">
-    <configuration name="PracticeSetString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeSetString" />
+  <component name="RunManager" selected="Application.NameEmail">
+    <configuration name="CombinedLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CombinedLength" />
+      <module name="String practice program" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NameEmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NameEmail" />
+      <module name="String practice program" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepalceChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RepalceChar" />
       <module name="String practice program" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -51,20 +65,6 @@
     </configuration>
     <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReverseString" />
-      <module name="String practice program" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="String3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String3" />
-      <module name="String practice program" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringMethods" />
       <module name="String practice program" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VowelsConso" />
+        <item itemvalue="Application.NameEmail" />
         <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Application.PracticeSetString" />
-        <item itemvalue="Application.StringMethods" />
-        <item itemvalue="Application.String3" />
+        <item itemvalue="Application.RepalceChar" />
+        <item itemvalue="Application.CombinedLength" />
+        <item itemvalue="Application.VowelsConso" />
       </list>
     </recent_temporary>
   </component>
