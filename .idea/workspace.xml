@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be2a5a54-b9bf-4b6e-a15c-b9011e3d51ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String practice program.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeSetString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +41,14 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StringMethods">
+  <component name="RunManager" selected="Application.PracticeSetString">
+    <configuration name="PracticeSetString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeSetString" />
+      <module name="String practice program" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="String2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String2" />
       <module name="String practice program" />
@@ -73,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PracticeSetString" />
         <item itemvalue="Application.StringMethods" />
         <item itemvalue="Application.String3" />
         <item itemvalue="Application.String2" />
